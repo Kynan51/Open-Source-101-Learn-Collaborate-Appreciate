@@ -1,4 +1,4 @@
-# GIFtastic
+if# GIFtastic
 
 This is a markdown file where you can add your favorite GIFs of various categories. You can also see how other contributors have added their GIFs and leave your signature to show it was you who added them.
 
@@ -44,7 +44,7 @@ This category is for GIFs that make you laugh or smile. You can use any subcateg
 This category is for GIFs that relate to movies or TV shows. You can use any subcategory that relates to genres, actors, scenes, quotes, etc.
 
 ### Superheros
-![GIF](https://giphy.com/gifs/spiderman-couture-tricot-l2QZQ53G4vWK9DFYY)
+![GIF](https://giphy.com/gifs/spiderman-couture-tricot-l2QZQ53G4vWK9DFYY.gif)
 
 added by: John ken
 
